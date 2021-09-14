@@ -1,0 +1,51 @@
+form { 
+    margin: 0 auto; 
+    width: 999px;
+    background-image: url(../Img/azul.jpg);
+    
+    } 
+
+.title{ 
+    text-align: center;
+    color:rgba(241, 239, 239, 0.979);
+    
+}
+
+.text { 
+    color: blanchedalmond;
+}
+
+.button{
+    margin: 10 auto;
+}
+
+.error{
+    color: red !important;
+    font-size: 10px !important;
+}
+
+.foto{
+    margin: 0;
+    width: 999px;
+    background-image: url(../Img/Harry\ Potter.jpg);
+}
+
+.Gamer{
+    margin: 0;
+    width: 999px;
+    background-image: url(../Img/Gamer.jpg);
+}
+
+.letra{
+    text-align: center;
+    color: rgb(11, 127, 228);
+}
+.home{
+   
+    background-image: url(../Img/rock-7.png);
+}
+
+img{
+    display:block;
+    margin:auto;
+    }
